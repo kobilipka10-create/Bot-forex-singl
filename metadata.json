@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Forex Signal Pro",
+  "description": "An advanced Forex trading signal application powered by Gemini. It provides real-time analysis of currency pairs based on RSI and MACD indicators, generating buy/sell signals with a confidence score. The app also uses Google Search grounding to fetch the latest news for selected pairs.",
+  "requestFramePermissions": []
+}
